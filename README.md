@@ -39,7 +39,7 @@ Me chamo [João Vitor Portella Marques] e sou um estudante de QA,estou adquirind
   - GitHub Actions, Jenkins, GitLab CI
 </details>
 
-
+---
 
 ##⚙️ Tecnologias & Ferramentas
 
