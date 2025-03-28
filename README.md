@@ -65,49 +65,43 @@ Aqui você encontra um resumo dos principais conceitos sobre testes de software.
 </details>
 
 
-<details> <summary>🎭 Testes Caixa Branca e Caixa Preta</summary>
+<details> <summary>🎭 Testes Caixa Branca e Caixa Preta</summary><br>
   
-Teste Caixa Branca:O testador tem conhecimento do código-fonte e verifica a estrutura interna da aplicação.
+<details><summary>Teste Caixa Branca</summary> O testador tem conhecimento do código-fonte e verifica a estrutura interna da aplicação.</details>
 
-Teste Caixa Preta: O testador não tem acesso ao código e avalia apenas as entradas e saídas do sistema.
+<details><summary>Teste Caixa Preta</summary> O testador não tem acesso ao código e avalia apenas as entradas e saídas do sistema.</details>
 
-Teste Caixa Cinza: Combina técnicas da caixa branca e preta, sendo útil para testes de segurança e integração.
+<details><summary>Teste Caixa Cinza</summary> Combina técnicas da caixa branca e preta, sendo útil para testes de segurança e integração.
   
-</details> <details> <summary>📌 Técnicas de Teste</summary>
-  
-Métodos usados para projetar e executar testes:
+</details> <details> <summary>📌 Técnicas de Teste</summary><br>
 
-Partição de Equivalência: Divide os dados de entrada em grupos para testar um representante de cada grupo.
+<details><summary>Partição de Equivalência</summary> Divide os dados de entrada em grupos para testar um representante de cada grupo.</details>
 
-Análise do Valor Limite: Testa os extremos dos intervalos de entrada, onde erros são mais comuns.
+<details><summary>Análise do Valor Limite</summary> Testa os extremos dos intervalos de entrada, onde erros são mais comuns.</details>
 
-Tabela de Decisão: Usa tabelas para mapear combinações de entradas e saídas esperadas.
+<details><summary>Tabela de Decisão</summary> Usa tabelas para mapear combinações de entradas e saídas esperadas.</details>
 
-Transição de Estado: Avalia como o sistema reage a diferentes estados e transições.
+<details><summary>Transição de Estado</summary> Avalia como o sistema reage a diferentes estados e transições.</details>
 
-Teste Exploratório: O testador usa experiência e criatividade para encontrar falhas sem seguir roteiros fixos.
+<details><summary>Teste Exploratório</summary> O testador usa experiência e criatividade para encontrar falhas sem seguir roteiros fixos.</details>
 </details>
 
 
-<details> <summary>🛡 Teste de Segurança </summary>
+<details> <summary>🛡 Teste de Segurança </summary><br>
+
+<details><summary>Teste de Vulnerabilidade</summary> Identifica falhas de segurança exploráveis.</details>
+
+<details><summary>Teste de Penetração (Pentest)</summary> Simula ataques para avaliar defesas.</details>
+
+<details><summary>Teste de Autenticação</summary> Verifica controles de acesso e permissões.</details>
+
+</details> <details> <summary>🚀 Teste de Performance </summary><br>
   
-O objetivo é garantir que o software seja resistente a ataques e falhas de segurança. Alguns tipos incluem:
+<details><summary>Teste de Carga</summary> Avalia o desempenho sob um número crescente de usuários.</details>
 
-Teste de Vulnerabilidade: Identifica falhas de segurança exploráveis.
+<details><summary>Teste de Estresse</summary> Testa os limites do sistema sob alto volume de requisições.</details>
 
-Teste de Penetração (Pentest): Simula ataques para avaliar defesas.
-
-Teste de Autenticação: Verifica controles de acesso e permissões.
-
-</details> <details> <summary>🚀 Teste de Performance </summary>
-  
-Mede a velocidade, estabilidade e escalabilidade do sistema sob diferentes condições:
-
-Teste de Carga: Avalia o desempenho sob um número crescente de usuários.
-
-Teste de Estresse: Testa os limites do sistema sob alto volume de requisições.
-
-Teste de Volume: Analisa o impacto de grandes volumes de dados.
+<details><summary>Teste de Volume</summary> Analisa o impacto de grandes volumes de dados.</details>
 
 </details>
 
@@ -153,21 +147,17 @@ O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **có
 
 ## 📂 Repositórios  
 
-📌 **Testes Manuais** 📝  
-📌 **API-tests** 🔗  
-📌 **Automação Web** 🖥  
-📌 **Automação Mobile** 📱  
-📌 **Performance-tests** ⚡  
+📌 **Testes Manuais** 📝 (🚧 Em Construção)   
+📌 **API-tests** 🔗 (🚧 Em Construção)   
+📌 **Automação Web** 🖥 (🚧 Em Construção)   
+📌 **Automação Mobile** 📱(🚧 Em Construção)    
+📌 **Performance-tests** ⚡ (🚧 Em Construção)  
 📌 **Security-tests** 🔐 (🚧 Em Construção)  
 
 ---
 
 ## 📞 Contatos  
 
-📧 **E-mail:** [seuemail@example.com](mailto:seuemail@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
-🐙 **GitHub:** [github.com/seuperfil](https://github.com/seuperfil)  
-
----
-
-Seja bem-vindo ao meu portfólio! Fique à vontade para explorar, contribuir e trocar experiências! 🚀👨‍💻  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/seuusuario](https://github.com/Portella10/QA-Portfolio-/edit/main/README.md))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-portella-799670250)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jvportella.m@gmail.com)
