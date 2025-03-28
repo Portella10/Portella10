@@ -158,6 +158,14 @@ O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **có
 
 ## 📞 Contatos  
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/seuusuario](https://github.com/Portella10/QA-Portfolio-/edit/main/README.md))
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-portella-799670250)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jvportella.m@gmail.com)
+<p align="center">
+  <a href="https://github.com/Portella10/QA-Portfolio-/edit/main/README.md">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="150"/>
+  </a>
+  <a href="https://www.linkedin.com/in/joão-vitor-portella-799670250">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"/>
+  </a>
+  <a href="mailto:jvportella.m@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="150"/>
+  </a>
+</p>
