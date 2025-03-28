@@ -45,17 +45,24 @@ Estou constantemente explorando novas tecnologias e aprimorando minhas habilidad
 
 Aqui você encontra um resumo dos principais conceitos sobre testes de software. **Clique em cada tópico para expandir e visualizar os detalhes**
 
-<details> <summary>🛠 Tipos de Testes </summary>.
+<details> <summary>🛠 Tipos de Testes </summary>
 
 Existem vários tipos de testes, cada um com uma finalidade específica:
 
 **Teste Funcional**: Verifica se o sistema atende aos requisitos especificados.
+
 **Teste Não Funcional**: Avalia aspectos como desempenho, segurança e usabilidade.
+
 **Teste Manual**: Realizado sem automação, seguindo roteiros de testes.
+
 **Teste Automatizado**: Utiliza scripts e ferramentas para execução automática.
+
 **Teste de Unidade**: verificam componentes individuais da aplicação de forma isolada, garantindo que cada parte funcione corretamente. 
+
 **Teste de Integração**: Analisam a comunicação entre diferentes módulos do sistema, como backend e frontend, serviços, APIs e bancos de dados. 
+
 **Teste de Regressão**: Testes realizados após a adição ou modificação de funcionalidades para garantir que alterações no código não afetem o funcionamento anterior. Esse tipo de teste é frequentemente automatizado.
+
 **Teste de Aceitação**: É realizado pelo cliente para verificar se tudo está funcionando conforme esperado.
 </details>
 
