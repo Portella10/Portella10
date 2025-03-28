@@ -100,14 +100,17 @@ Teste de Volume: Analisa o impacto de grandes volumes de dados.
 
 No desenvolvimento de software e na engenharia de qualidade, os termos Erro, Falha e Defeito são comuns, mas possuem significados distintos. Compreender essas diferenças é essencial para garantir a qualidade de um sistema. 
 
-### ⚠️ **Erro**  
+<details> <summary>### ⚠️ **Erro**</summary>  
 Um erro ocorre devido a uma **ação humana equivocada**, como um desenvolvedor que escreve um **código incorreto**, um testador que interpreta mal um requisito ou um usuário que insere dados errados.  
+</details>
 
-### ❌ **Falha**  
+<details> <summary>### ❌ **Falha** </summary> 
 A falha acontece quando o software não se **comporta como deveria**. Ela é o efeito visível de um erro, como um botão que não responde ou um relatório que exibe dados incorretos.
+</details>
 
-### 🛠 **Defeito**  
+<details> <summary>### 🛠 **Defeito**</summary>  
 O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **código-fonte**, como uma lógica errada em um cálculo ou uma regra de negócio mal implementada.  
+</details>
 
 ### 🔍 **Resumo**  
 - **Erro** → Ação humana incorreta  
