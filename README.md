@@ -45,7 +45,7 @@ Estou constantemente explorando novas tecnologias e aprimorando minhas habilidad
 
 Aqui você encontra um resumo dos principais conceitos sobre testes de software. **Clique em cada tópico para expandir e visualizar os detalhes**
 
-<details> <summary>🛠 **Tipos de Testes**</summary>.
+<details> <summary>🛠 Tipos de Testes </summary>.
 
 Existem vários tipos de testes, cada um com uma finalidade específica:
 
@@ -59,13 +59,13 @@ Existem vários tipos de testes, cada um com uma finalidade específica:
 **Teste de Aceitação**: É realizado pelo cliente para verificar se tudo está funcionando conforme esperado.
 </details>
 
-<details> <summary>🎭 **Testes Caixa Branca e Caixa Preta**</summary>
+<details> <summary>🎭 Testes Caixa Branca e Caixa Preta</summary>
   
 Teste Caixa Branca: O testador tem conhecimento do código-fonte e verifica a estrutura interna da aplicação.
 Teste Caixa Preta: O testador não tem acesso ao código e avalia apenas as entradas e saídas do sistema.
 Teste Caixa Cinza: Combina técnicas da caixa branca e preta, sendo útil para testes de segurança e integração.
   
-</details> <details> <summary>📌 **Técnicas de Teste**</summary>
+</details> <details> <summary>📌 Técnicas de Teste</summary>
   
 Métodos usados para projetar e executar testes:
 
@@ -76,7 +76,7 @@ Transição de Estado: Avalia como o sistema reage a diferentes estados e transi
 Teste Exploratório: O testador usa experiência e criatividade para encontrar falhas sem seguir roteiros fixos.
 </details>
 
-<details> <summary>🛡 **Teste de Segurança**</summary>
+<details> <summary>🛡 Teste de Segurança </summary>
   
 O objetivo é garantir que o software seja resistente a ataques e falhas de segurança. Alguns tipos incluem:
 
@@ -84,7 +84,7 @@ Teste de Vulnerabilidade: Identifica falhas de segurança exploráveis.
 Teste de Penetração (Pentest): Simula ataques para avaliar defesas.
 Teste de Autenticação: Verifica controles de acesso e permissões.
 
-</details> <details> <summary>🚀 **Teste de Performance**</summary>
+</details> <details> <summary>🚀 Teste de Performance </summary>
   
 Mede a velocidade, estabilidade e escalabilidade do sistema sob diferentes condições:
 
@@ -100,15 +100,15 @@ Teste de Volume: Analisa o impacto de grandes volumes de dados.
 
 No desenvolvimento de software e na engenharia de qualidade, os termos Erro, Falha e Defeito são comuns, mas possuem significados distintos. Compreender essas diferenças é essencial para garantir a qualidade de um sistema. 
 
-<details> <summary>⚠️ **Erro** </summary>  
+<details> <summary>⚠️ Erro </summary>  
 Um erro ocorre devido a uma **ação humana equivocada**, como um desenvolvedor que escreve um **código incorreto**, um testador que interpreta mal um requisito ou um usuário que insere dados errados.  
 </details>
 
-<details> <summary>❌ **Falha** </summary> 
+<details> <summary>❌ Falha </summary> 
 A falha acontece quando o software não se **comporta como deveria**. Ela é o efeito visível de um erro, como um botão que não responde ou um relatório que exibe dados incorretos.
 </details>
 
-<details> <summary> ### 🛠 **Defeito** </summary>  
+<details> <summary> 🛠 Defeito </summary>  
 O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **código-fonte**, como uma lógica errada em um cálculo ou uma regra de negócio mal implementada.  
 </details>
 
