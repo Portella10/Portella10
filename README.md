@@ -166,6 +166,6 @@ O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **có
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="130"/>
   </a>
   <a href="mailto:jvportella.m@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="130"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="132"/>
   </a>
 </p>
