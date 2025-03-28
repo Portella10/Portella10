@@ -8,7 +8,7 @@ Se você é **recrutador, desenvolvedor ou profissional de QA**, fique à vontad
 
 ---
 
-## 📌 Quem Sou Eu  
+## 📌 Sobre Mim   
 
 Olá! 👋 Me chamo **Michael Felipe** e sou **QA Engineer** com experiência em **testes manuais e automação**. Minha missão é **garantir a qualidade do software** através de **estratégias eficazes de testes, automação robusta e uma forte cultura de qualidade**.  
 
