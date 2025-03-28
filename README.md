@@ -71,7 +71,7 @@ Aqui você encontra um resumo dos principais conceitos sobre testes de software.
 
 <details><summary>Teste Caixa Preta</summary> O testador não tem acesso ao código e avalia apenas as entradas e saídas do sistema.</details>
 
-<details><summary>Teste Caixa Cinza</summary> Combina técnicas da caixa branca e preta, sendo útil para testes de segurança e integração.
+<details><summary>Teste Caixa Cinza</summary> Combina técnicas da caixa branca e preta, sendo útil para testes de segurança e integração.</details>
   
 </details> <details> <summary>📌 Técnicas de Teste</summary><br>
 
