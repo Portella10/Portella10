@@ -5,39 +5,7 @@ Este repositório reúne minha experiência com testes manuais, automação de t
 
 ## 🚀 Sobre Mim
 
-Me chamo [João Vitor Portella Marques] e sou um estudante de QA,estou adquirindo  experiência em testes manuais e automação. Minha missão é garantir a qualidade do software através de estratégias eficazes de testes, automação robusta e uma forte cultura de qualidade.
-
-## 📌 Áreas de Atuação
-
-<details>
-  <summary><strong>🔎 Testes Manuais</strong></summary>
-  - Caixa Branca, Caixa Preta, Regressão, Exploratórios
-</details>
-
-<details>
-  <summary><strong>🤖 Automação de Testes</strong></summary>
-  - Cypress, Selenium, Playwright, Robot Framework
-</details>
-
-<details>
-  <summary><strong>📱 Teste Mobile</strong></summary>
-  - Appium, Maestro
-</details>
-
-<details>
-  <summary><strong>🛠️ Testes de API</strong></summary>
-  - Postman, Supertest, CodeceptJS, REST Assured
-</details>
-
-<details>
-  <summary><strong>⚡ Testes de Performance</strong></summary>
-  - JMeter, K6, Wiremock
-</details>
-
-<details>
-  <summary><strong>🔄 Integração Contínua (CI/CD)</strong></summary>
-  - GitHub Actions, Jenkins, GitLab CI
-</details>
+Me chamo João Vitor Portella Marques e sou um estudante de QA,estou adquirindo  experiência em testes manuais e automação. Minha missão é garantir a qualidade do software através de estratégias eficazes de testes, automação robusta e uma forte cultura de qualidade.
 
 ---
 
