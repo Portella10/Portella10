@@ -45,7 +45,7 @@ Estou constantemente explorando novas tecnologias e aprimorando minhas habilidad
 
 Aqui você encontra um resumo dos principais conceitos sobre testes de software. **Clique em cada tópico para expandir e visualizar os detalhes**
 
-<details> <summary>🛠 Tipos de Testes </summary>
+<details> <summary>🛠 Tipos de Testes </summary> <br>
 
 <details><summary>Teste Funcional</summary> Verifica se o sistema atende aos requisitos especificados. </details>
 
