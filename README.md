@@ -49,19 +49,19 @@ Aqui você encontra um resumo dos principais conceitos sobre testes de software.
 
 <details><summary>Teste Funcional</summary> Verifica se o sistema atende aos requisitos especificados. </details>
 
-**Teste Não Funcional**: Avalia aspectos como desempenho, segurança e usabilidade.
+<details><summary>Teste Não Funcional</summary> Avalia aspectos como desempenho, segurança e usabilidade.</details>
 
-**Teste Manual**: Realizado sem automação, seguindo roteiros de testes.
+<details><summary>Teste Manual</summary> Realizado sem automação, seguindo roteiros de testes.</details>
 
-**Teste Automatizado**: Utiliza scripts e ferramentas para execução automática.
+<details><summary>Teste Automatizado</summary> Utiliza scripts e ferramentas para execução automática.</details>
 
-**Teste de Unidade**: verificam componentes individuais da aplicação de forma isolada, garantindo que cada parte funcione corretamente. 
+<details><summary>Teste de Unidade</summary> verificam componentes individuais da aplicação de forma isolada, garantindo que cada parte funcione corretamente.</details> 
 
-**Teste de Integração**: Analisam a comunicação entre diferentes módulos do sistema, como backend e frontend, serviços, APIs e bancos de dados. 
+<details><summary>Teste de Integração</summary> Analisam a comunicação entre diferentes módulos do sistema, como backend e frontend, serviços, APIs e bancos de dados.</details> 
 
-**Teste de Regressão**: Testes realizados após a adição ou modificação de funcionalidades para garantir que alterações no código não afetem o funcionamento anterior. Esse tipo de teste é frequentemente automatizado.
+<details><summary>Teste de Regressão</summary> Testes realizados após a adição ou modificação de funcionalidades para garantir que alterações no código não afetem o funcionamento anterior. Esse tipo de teste é frequentemente automatizado.</details>
 
-**Teste de Aceitação**: É realizado pelo cliente para verificar se tudo está funcionando conforme esperado.
+<details><summary>Teste de Aceitação</summary> É realizado pelo cliente para verificar se tudo está funcionando conforme esperado.</details>
 </details>
 
 
