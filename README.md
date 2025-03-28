@@ -47,6 +47,7 @@ Aqui você encontra um resumo dos principais conceitos sobre testes de software.
 
 <details> <summary>🛠 Tipos de Testes </summary>
 
+
 Existem vários tipos de testes, cada um com uma finalidade específica:
 
 **Teste Funcional**: Verifica se o sistema atende aos requisitos especificados.
@@ -66,10 +67,13 @@ Existem vários tipos de testes, cada um com uma finalidade específica:
 **Teste de Aceitação**: É realizado pelo cliente para verificar se tudo está funcionando conforme esperado.
 </details>
 
+
 <details> <summary>🎭 Testes Caixa Branca e Caixa Preta</summary>
   
 Teste Caixa Branca:O testador tem conhecimento do código-fonte e verifica a estrutura interna da aplicação.
+
 Teste Caixa Preta: O testador não tem acesso ao código e avalia apenas as entradas e saídas do sistema.
+
 Teste Caixa Cinza: Combina técnicas da caixa branca e preta, sendo útil para testes de segurança e integração.
   
 </details> <details> <summary>📌 Técnicas de Teste</summary>
@@ -77,18 +81,25 @@ Teste Caixa Cinza: Combina técnicas da caixa branca e preta, sendo útil para t
 Métodos usados para projetar e executar testes:
 
 Partição de Equivalência: Divide os dados de entrada em grupos para testar um representante de cada grupo.
+
 Análise do Valor Limite: Testa os extremos dos intervalos de entrada, onde erros são mais comuns.
+
 Tabela de Decisão: Usa tabelas para mapear combinações de entradas e saídas esperadas.
+
 Transição de Estado: Avalia como o sistema reage a diferentes estados e transições.
+
 Teste Exploratório: O testador usa experiência e criatividade para encontrar falhas sem seguir roteiros fixos.
 </details>
+
 
 <details> <summary>🛡 Teste de Segurança </summary>
   
 O objetivo é garantir que o software seja resistente a ataques e falhas de segurança. Alguns tipos incluem:
 
 Teste de Vulnerabilidade: Identifica falhas de segurança exploráveis.
+
 Teste de Penetração (Pentest): Simula ataques para avaliar defesas.
+
 Teste de Autenticação: Verifica controles de acesso e permissões.
 
 </details> <details> <summary>🚀 Teste de Performance </summary>
@@ -96,8 +107,11 @@ Teste de Autenticação: Verifica controles de acesso e permissões.
 Mede a velocidade, estabilidade e escalabilidade do sistema sob diferentes condições:
 
 Teste de Carga: Avalia o desempenho sob um número crescente de usuários.
+
 Teste de Estresse: Testa os limites do sistema sob alto volume de requisições.
+
 Teste de Volume: Analisa o impacto de grandes volumes de dados.
+
 </details>
 
 
