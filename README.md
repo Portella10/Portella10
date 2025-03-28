@@ -74,6 +74,7 @@ Análise do Valor Limite: Testa os extremos dos intervalos de entrada, onde erro
 Tabela de Decisão: Usa tabelas para mapear combinações de entradas e saídas esperadas.
 Transição de Estado: Avalia como o sistema reage a diferentes estados e transições.
 Teste Exploratório: O testador usa experiência e criatividade para encontrar falhas sem seguir roteiros fixos.
+</details>
 
 <details> <summary>🛡 **Teste de Segurança**</summary>
   
