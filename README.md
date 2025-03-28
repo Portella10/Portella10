@@ -47,9 +47,7 @@ Aqui você encontra um resumo dos principais conceitos sobre testes de software.
 
 <details> <summary>🛠 Tipos de Testes </summary>
 
-Existem vários tipos de testes, cada um com uma finalidade específica:
-
-<details><summary>**Teste Funcional**</summary> Verifica se o sistema atende aos requisitos especificados.</details>
+<details><summary>Teste Funcional</summary> Verifica se o sistema atende aos requisitos especificados. </details>
 
 **Teste Não Funcional**: Avalia aspectos como desempenho, segurança e usabilidade.
 
