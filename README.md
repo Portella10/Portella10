@@ -61,7 +61,7 @@ Existem vários tipos de testes, cada um com uma finalidade específica:
 
 <details> <summary>🎭 Testes Caixa Branca e Caixa Preta</summary>
   
-<details>Teste Caixa Branca:O testador tem conhecimento do código-fonte e verifica a estrutura interna da aplicação. </details>
+Teste Caixa Branca:O testador tem conhecimento do código-fonte e verifica a estrutura interna da aplicação.
 Teste Caixa Preta: O testador não tem acesso ao código e avalia apenas as entradas e saídas do sistema.
 Teste Caixa Cinza: Combina técnicas da caixa branca e preta, sendo útil para testes de segurança e integração.
   
