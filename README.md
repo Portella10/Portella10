@@ -1,54 +1,114 @@
-# QA-Portfolio
+# 🛠 QA Portfólio - Testes de Software
 
-Bem-vindo ao meu portfólio de Qualidade de Software!
-Este repositório reúne minha experiência com testes manuais, automação de testes e validação de APIs, utilizando algumas das principais tecnologias do mercado. O objetivo é demonstrar minhas habilidades como QA, aplicando boas práticas, ferramentas modernas e metodologias ágeis para garantir a qualidade dos softwares.
+Bem-vindo ao meu portfólio de **testes de software**! 🚀  
 
-## 🚀 Sobre Mim
+Aqui você encontrará uma coleção organizada e prática de **testes manuais, testes automatizados e testes de API**, utilizando as principais ferramentas do mercado. O objetivo deste repositório é demonstrar minhas habilidades em **qualidade de software e automação de testes**, seguindo boas práticas e frameworks modernos.  
 
-Me chamo João Vitor Portella Marques e sou um estudante de QA,estou adquirindo  experiência em testes manuais e automação. Minha missão é garantir a qualidade do software através de estratégias eficazes de testes, automação robusta e uma forte cultura de qualidade.
-
----
-
-## ⚙️ Tecnologias & Ferramentas
-
-<p align="center"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
+Se você é **recrutador, desenvolvedor ou profissional de QA**, fique à vontade para explorar o conteúdo e trocar experiências!  
 
 ---
 
-## 📂 Repositórios
+## 📌 Quem Sou Eu  
 
-<details>
-  <summary><strong>📝 Manual-tests</strong> (🚧 Em Construção)</summary>
-  Repositório dedicado a testes manuais organizados e documentados.
-</details>
-
-<details>
-  <summary><strong>🔗 API-tests</strong></summary>
-  Conjunto de testes automatizados para APIs utilizando Postman e Supertest.
-</details>
-
-<details>
-  <summary><strong>🖥 Automação Web</strong></summary>
-  Projetos de automação de testes para aplicações web com Cypress, Selenium e Playwright.
-</details>
-
-<details>
-  <summary><strong>📱 Automação Mobile</strong></summary>
-  Scripts de automação para testes de aplicativos móveis usando Appium e Maestro.
-</details>
-
-<details>
-  <summary><strong>⚡ Performance-tests</strong></summary>
-  Testes de performance utilizando JMeter, K6 e outras ferramentas.
-</details>
-
-<details>
-  <summary><strong>🔐 Security-tests</strong> (🚧 Em Construção)</summary>
-  Testes voltados para segurança de aplicações.
-</details>
+Olá! 👋 Me chamo **Michael Felipe** e sou **QA Engineer** com experiência em **testes manuais e automação**. Minha missão é **garantir a qualidade do software** através de **estratégias eficazes de testes, automação robusta e uma forte cultura de qualidade**.  
 
 ---
 
-## 📞 Contatos
+## 🚀 Minha Jornada  
 
-<p align="center"> <a href="https://github.com/Portella10" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/joão-vitor-portella-799670250/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:jvportella.m@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a></p>
+Desde o início da minha carreira, venho aprimorando minhas habilidades em **testes de software**, passando por áreas como:  
+
+- **📝 Testes Manuais** (Caixa Branca, Caixa Preta, Regressão, Exploratório)  
+- **🤖 Automação de Testes** (Cypress, Selenium, Playwright, Appium, Robot Framework)  
+- **📱 Teste Mobile** (Appium, Maestro, Espresso - Android)  
+- **🔗 Testes de API** (Postman, Supertest, CodeceptJS, REST Assured)  
+- **⚡ Testes de Performance** (JMeter, K6, Wiremock)  
+- **🔄 Integração Contínua (CI/CD)** (GitHub Actions, Jenkins, GitLab CI)  
+
+Com formação em **Banco de Dados pela FATEC**, também tenho experiência com **SQL e manipulação de dados**, o que me ajuda a validar integrações e estruturar testes mais robustos.  
+
+---
+
+## 💡 O Que Você Vai Encontrar Neste Portfólio?  
+
+Aqui, compartilho **projetos práticos** que mostram minha experiência em **automação de testes, testes de API, mobile e performance**. Meu objetivo é criar um **repositório vivo de aprendizado e evolução na área de QA**.  
+
+---
+
+## 🎯 Busco Sempre Evoluir!  
+
+Estou sempre estudando **novas tecnologias** e aprimorando minhas habilidades. Atualmente, estou aprofundando meus conhecimentos em **Appium, ALM Octane e Mobile Center** para expandir minha atuação na área de qualidade de software.  
+
+---
+
+## 📖 Diferença entre Erro, Falha e Defeito  
+
+Se você trabalha com desenvolvimento de software ou engenharia de qualidade, provavelmente já ouviu falar nos termos **Erro, Falha e Defeito**. Embora sejam frequentemente usados de forma intercambiável, é importante compreender suas diferenças:  
+
+### ⚠️ **Erro**  
+É uma **ação humana** que produz um **resultado incorreto ou inesperado**. Pode ocorrer na escrita do código, na execução dos testes ou na interação do usuário com o sistema.  
+
+### ❌ **Falha**  
+É a **manifestação de um erro**, quando o software não funciona conforme o esperado. Exemplo: um bug que impede a finalização de uma compra online.  
+
+### 🛠 **Defeito**  
+É a **causa raiz** da falha. Exemplo: um erro de lógica no código que resulta em um cálculo incorreto.  
+
+### 🔍 **Resumo**  
+- **Erro** → Ação humana incorreta  
+- **Defeito** → Código incorreto  
+- **Falha** → Problema no funcionamento do software  
+
+---
+
+## 🔒 Diferença entre **Safety** e **Security**  
+
+### 🛡 **Safety (Segurança Funcional)**  
+- Proteção contra **falhas não intencionais**.  
+- Evita **acidentes e danos físicos**.  
+- Exemplo: O freio de um carro deve funcionar corretamente para evitar acidentes.  
+
+### 🔐 **Security (Segurança da Informação)**  
+- Proteção contra **ataques intencionais**.  
+- Evita **roubo de dados e acessos não autorizados**.  
+- Exemplo: Um sistema bancário deve proteger dados contra hackers.  
+
+### 📌 **Resumo**  
+| Aspecto     | Safety | Security |  
+|-------------|--------|----------|  
+| **Foco**    | Evitar falhas não intencionais | Proteger contra ataques maliciosos |  
+| **Origem**  | Erros, bugs, falhas operacionais | Hackers, malware, vazamento de dados |  
+| **Exemplo** | Prevenir falhas em um sistema de controle de voo | Proteger um banco de dados contra invasão |  
+
+---
+
+## 🛠 Tecnologias & Ferramentas  
+
+| 💻 Testes Web | 🤖 Mobile | 🔗 API | ⚡ Performance | 🔒 Security | 🔄 CI/CD |  
+|--------------|----------|--------|-------------|-------------|-----------|  
+| Cypress | Appium | Postman | JMeter | OWASP ZAP | GitHub Actions |  
+| Playwright | Maestro | REST Assured | K6 | Burp Suite | Jenkins |  
+| Selenium | Espresso | CodeceptJS | Wiremock | Nmap | GitLab CI |  
+
+---
+
+## 📂 Repositórios  
+
+📌 **Testes Manuais** 📝  
+📌 **API-tests** 🔗  
+📌 **Automação Web** 🖥  
+📌 **Automação Mobile** 📱  
+📌 **Performance-tests** ⚡  
+📌 **Security-tests** 🔐 (🚧 Em Construção)  
+
+---
+
+## 📞 Contatos  
+
+📧 **E-mail:** [seuemail@example.com](mailto:seuemail@example.com)  
+💼 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
+🐙 **GitHub:** [github.com/seuperfil](https://github.com/seuperfil)  
+
+---
+
+Seja bem-vindo ao meu portfólio! Fique à vontade para explorar, contribuir e trocar experiências! 🚀👨‍💻  
