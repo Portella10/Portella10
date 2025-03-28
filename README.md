@@ -65,7 +65,7 @@ Aqui você encontra um resumo dos principais conceitos sobre testes de software.
 </details>
 
 
-<details> <summary>🎭 Testes Caixa Branca e Caixa Preta</summary><br>
+<details> <summary>🎭 Testes Caixa Branca e Caixa Preta</summary> <br>
   
 <details><summary>Teste Caixa Branca</summary> O testador tem conhecimento do código-fonte e verifica a estrutura interna da aplicação.</details>
 
