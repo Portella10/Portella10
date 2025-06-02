@@ -146,16 +146,71 @@ O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **có
 ---
 
 ## 📂 Repositórios  
-
-<summary>API-tests</summary>
+<details>
+<summary>API-tests (🧪 Em desenvolvimento)</summary>
 <br>
 
 <details>
-<summary>Postman + Newman</summary>  
-📌 **API-tests** 🔗 (🚧 Em Construção)   
-📌 **Automação Web** 🖥 (🚧 Em Construção)   
-📌 **Automação Mobile** 📱(🚧 Em Construção)    
-📌 **Performance-tests** ⚡ (🚧 Em Construção)  
+<summary>API-Cypress</summary>
+  <h1>🚀 Testes Automatizados de API com Cypress</h1>
+
+<p>Este repositório contém uma coleção de <strong>testes automatizados de API</strong> desenvolvidos com o <strong>Cypress</strong>, explorando <strong>endpoints de APIs públicas</strong>.</p>
+
+<p>O objetivo é demonstrar como o <strong>Cypress</strong>, tradicionalmente utilizado para testes end-to-end, também é uma solução robusta para <strong>testes de APIs REST</strong>, validando <em>status codes</em>, <em>headers</em>, <em>payloads</em> e fluxos de autenticação.</p>
+
+<hr>
+
+<h2>🛠 Tecnologias Utilizadas</h2>
+
+<table>
+  <tr>
+    <th>Ferramenta</th>
+    <th>Finalidade</th>
+  </tr>
+  <tr>
+    <td>Cypress</td>
+    <td>Automação dos testes de API e assertions avançadas</td>
+  </tr>
+  <tr>
+    <td>APIs Públicas</td>
+    <td>Base de dados para os testes (REST APIs externas)</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🌐 Por que Automatizar Testes de API?</h2>
+
+<ul>
+  <li><strong>Validação rápida e contínua</strong>: feedback imediato em pipelines de CI/CD.</li>
+  <li><strong>Redução de tempo e esforço</strong>: foco em testes de maior valor.</li>
+  <li><strong>Cobertura de casos complexos</strong>: validação de fluxos como autenticação, headers e payloads dinâmicos.</li>
+  <li><strong>Facilidade de manutenção</strong>: scripts organizados, legíveis e escaláveis.</li>
+  <li><strong>Integração com outras camadas</strong>: testes de API garantem a robustez do backend antes da integração com frontend.</li>
+</ul>
+
+<hr>
+
+
+# 📁 Abaixo está projetos que fiz com cypress onde coloquei em prática os ensinamentos de teste nesse framework.<br>
+
+* [Projeto 1° - Cypress](https://github.com/Portella10/api-cypress-project.git)
+* [Projeto 2° - Cypress](https://github.com/Portella10/test_reqres_api.git)
+* [Projeto 3° - Cypress](https://github.com/Portella10/test_apiRest_cypress.git)
+ <hr>
+</p>
+
+  </details>
+  </details> 
+  
+📌 **API-tests** 🔗 (🚧 Em Construção)
+
+📌 Automação Web 🖥 (🚧 Em Construção)
+
+📌 Automação Mobile 📱(🚧 Em Construção)
+
+📌 **Performance-tests** ⚡ (🚧 Em Construção)
+
 📌 **Security-tests** 🔐 (🚧 Em Construção)  
 
 ---
