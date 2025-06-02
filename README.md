@@ -147,7 +147,11 @@ O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **có
 
 ## 📂 Repositórios  
 
-📌 **Testes Manuais** 📝 (🚧 Em Construção)   
+<summary>API-tests</summary>
+<br>
+
+<details>
+<summary>Postman + Newman</summary>  
 📌 **API-tests** 🔗 (🚧 Em Construção)   
 📌 **Automação Web** 🖥 (🚧 Em Construção)   
 📌 **Automação Mobile** 📱(🚧 Em Construção)    
