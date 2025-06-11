@@ -10,9 +10,9 @@ Se você é **recrutador, desenvolvedor ou profissional de QA**, fique à vontad
 
 ## 📌 Sobre Mim   
 
-Olá! 👋 Me chamo **João Vitor Portella Marques** e sou **Estudante**. Atualmente, estou aprimorando minhas habilidades em **Testes Manuais e Automação**, explorando diferentes abordagens para garantir **software de alta qualidade**.
+Olá! 👋 Me chamo João Vitor Portella Marques e atuo como Profissional de QA, com foco em Testes Manuais e Automação. Tenho aplicado diferentes abordagens para garantir a entrega de softwares com alta qualidade, estabilidade e performance.
 
-Minha missão é **garantir a qualidade do software** através de **estratégias eficazes de testes, automação robusta e uma forte cultura de qualidade**. 
+Minha missão é assegurar a qualidade de produtos digitais por meio de estratégias de testes bem definidas, automações eficientes e a promoção contínua de uma cultura sólida de qualidade em todo o ciclo de desenvolvimento.
 
 ---
 
@@ -128,10 +128,6 @@ O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **có
 - **Erro** → Ação humana incorreta  
 - **Defeito** → Código incorreto  
 - **Falha** → Problema no funcionamento do software  
-
----
-
-## 🔒 Diferença entre **Safety** e **Security**  
 
 ---
 
