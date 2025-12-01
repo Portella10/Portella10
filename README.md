@@ -199,8 +199,6 @@ O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **có
   </details>
   </details> 
   
-📌 **API-tests** 🔗 (🚧 Em Construção)
-
 📌 Automação Web 🖥 (🚧 Em Construção)
 
 📌 Automação Mobile 📱(🚧 Em Construção)
