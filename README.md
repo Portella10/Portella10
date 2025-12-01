@@ -145,11 +145,26 @@ O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **có
 
 📌 API-tests (🚧 Em Construção)
 
-📌 Automação Web 🖥 (🚧 Em Construção)
+<details> <summary>📌 Automação Web 🖥 (🚧 Em Construção) </summary>
+   <details>  <summary> Cypress </summary>
+      <a href="https://github.com/Portella10/Swag-Labs-test" target="_blank">
+        Swag Labs – Testes Automatizados
+      </a>
+   </details>
+  
+</details>
 
 📌 Automação Mobile 📱(🚧 Em Construção)
 
-📌 **Performance-tests** ⚡ (🚧 Em Construção)
+<details> <summary> 📌 Performance-tests ⚡ (🚧 Em Construção) </summary>
+   <details> <summary> K6 </summary>
+      <a href="https://github.com/Portella10/banco-api-performace" target="_blank">
+       Banco-api-performace
+      </a>
+   </details>
+  
+</details>
+
 
 📌 **Security-tests** 🔐 (🚧 Em Construção)  
 
