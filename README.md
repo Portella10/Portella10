@@ -1,185 +1,70 @@
-# 🛠 QA Portfólio - Testes de Software
-
-Bem-vindo ao meu portfólio de **testes de software**! 🚀  
-
-Aqui você encontrará uma coleção organizada e prática de **testes manuais, testes automatizados e testes de API**, utilizando as principais ferramentas do mercado. O objetivo deste repositório é demonstrar minhas habilidades em **qualidade de software e automação de testes**, seguindo boas práticas e frameworks modernos.  
-
-Se você é **recrutador, desenvolvedor ou profissional de QA**, fique à vontade para explorar o conteúdo e trocar experiências!  
+# QA Engineer | Manual & Automated Testing | Cypress | API | CI/CD
 
 ---
 
-## 📌 Sobre Mim   
+## 🚀 Projetos em Destaque
 
-Olá! 👋 Me chamo João Vitor Portella Marques e atuo como Profissional de QA, com foco em Testes Manuais e Automação. Tenho aplicado diferentes abordagens para garantir a entrega de softwares com alta qualidade, estabilidade e performance.
+### 🔹 Swag Labs – Testes E2E com Cypress
+Automação de testes end-to-end validando fluxos críticos como login, listagem de produtos, carrinho e checkout, aplicando boas práticas de automação, organização de código e cenários independentes.
 
-Minha missão é assegurar a qualidade de produtos digitais por meio de estratégias de testes bem definidas, automações eficientes e a promoção contínua de uma cultura sólida de qualidade em todo o ciclo de desenvolvimento.
-
----
-
-## 🚀 Minha Jornada  
-
-Desde o início da minha carreira, venho aprimorando minhas habilidades em **testes de software**, passando por áreas como:  
-
-- **📝 Testes Manuais** (Caixa Branca, Caixa Preta, Regressão, Exploratório)  
-- **🤖 Automação de Testes** (Cypress, Selenium, Playwright, Appium, Robot Framework)  
-- **📱 Teste Mobile** (Appium, Maestro, Espresso - Android)  
-- **🔗 Testes de API** (Postman, Supertest,REST Assured)  
-- **⚡ Testes de Performance** (JMeter, K6, Wiremock)  
-- **🔄 Integração Contínua (CI/CD)** (GitHub Actions e Jenkins,)  
+🔗 https://github.com/Portella10/Swag-Labs-test
 
 ---
 
-## 💡 O Que Você Vai Encontrar Neste Portfólio?  
+### 🔹 Banco API – Testes de Performance com K6
+Testes de carga e estresse em endpoints REST, analisando tempo de resposta, throughput e comportamento da aplicação sob concorrência.
 
-Aqui, compartilho **projetos práticos** que mostram minha experiência em **automação de testes, testes de API, mobile e performance**. Meu objetivo é criar um **repositório vivo de aprendizado e evolução na área de QA**.  
-
----
-
-## 🎯 Busco Sempre Evoluir!  
-
-Estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para me manter atualizado no setor de qualidade de software
+🔗 https://github.com/Portella10/banco-api-performace
 
 ---
 
-## 📚 Conceitos de Testes
+### 🔹 Banco API – Testes de API
+Testes automatizados de API com validação de status codes, regras de negócio e contratos, garantindo confiabilidade e consistência dos serviços.
 
-Aqui você encontra um resumo dos principais conceitos sobre testes de software. **Clique em cada tópico para expandir e visualizar os detalhes**
-
-<details> <summary>🛠 Tipos de Testes </summary> <br>
-
-<details><summary>Teste Funcional</summary> Verifica se o sistema atende aos requisitos especificados. </details>
-
-<details><summary>Teste Não Funcional</summary> Avalia aspectos como desempenho, segurança e usabilidade.</details>
-
-<details><summary>Teste Manual</summary> Realizado sem automação, seguindo roteiros de testes.</details>
-
-<details><summary>Teste Automatizado</summary> Utiliza scripts e ferramentas para execução automática.</details>
-
-<details><summary>Teste de Unidade</summary> verificam componentes individuais da aplicação de forma isolada, garantindo que cada parte funcione corretamente.</details> 
-
-<details><summary>Teste de Integração</summary> Analisam a comunicação entre diferentes módulos do sistema, como backend e frontend, serviços, APIs e bancos de dados.</details> 
-
-<details><summary>Teste de Regressão</summary> Testes realizados após a adição ou modificação de funcionalidades para garantir que alterações no código não afetem o funcionamento anterior. Esse tipo de teste é frequentemente automatizado.</details>
-
-<details><summary>Teste de Aceitação</summary> É realizado pelo cliente para verificar se tudo está funcionando conforme esperado.</details>
-</details>
-
-
-<details> <summary>🎭 Testes Caixa Branca e Caixa Preta</summary> <br>
-  
-<details><summary>Teste Caixa Branca</summary> O testador tem conhecimento do código-fonte e verifica a estrutura interna da aplicação.</details>
-
-<details><summary>Teste Caixa Preta</summary> O testador não tem acesso ao código e avalia apenas as entradas e saídas do sistema.</details>
-
-<details><summary>Teste Caixa Cinza</summary> Combina técnicas da caixa branca e preta, sendo útil para testes de segurança e integração.</details>
-  
-</details> <details> <summary>📌 Técnicas de Teste</summary><br>
-
-<details><summary>Partição de Equivalência</summary> Divide os dados de entrada em grupos para testar um representante de cada grupo.</details>
-
-<details><summary>Análise do Valor Limite</summary> Testa os extremos dos intervalos de entrada, onde erros são mais comuns.</details>
-
-<details><summary>Tabela de Decisão</summary> Usa tabelas para mapear combinações de entradas e saídas esperadas.</details>
-
-<details><summary>Transição de Estado</summary> Avalia como o sistema reage a diferentes estados e transições.</details>
-
-<details><summary>Teste Exploratório</summary> O testador usa experiência e criatividade para encontrar falhas sem seguir roteiros fixos.</details>
-</details>
-
-
-<details> <summary>🛡 Teste de Segurança </summary><br>
-
-<details><summary>Teste de Vulnerabilidade</summary> Identifica falhas de segurança exploráveis.</details>
-
-<details><summary>Teste de Penetração (Pentest)</summary> Simula ataques para avaliar defesas.</details>
-
-<details><summary>Teste de Autenticação</summary> Verifica controles de acesso e permissões.</details>
-
-</details> <details> <summary>🚀 Teste de Performance </summary><br>
-  
-<details><summary>Teste de Carga</summary> Avalia o desempenho sob um número crescente de usuários.</details>
-
-<details><summary>Teste de Estresse</summary> Testa os limites do sistema sob alto volume de requisições.</details>
-
-<details><summary>Teste de Volume</summary> Analisa o impacto de grandes volumes de dados.</details>
-
-</details>
-
-
-
-
-## 📖 Erro, Falha e Defeito: Entendendo as Diferenças
-
-No desenvolvimento de software e na engenharia de qualidade, os termos Erro, Falha e Defeito são comuns, mas possuem significados distintos. Compreender essas diferenças é essencial para garantir a qualidade de um sistema. 
-
-<details> <summary>⚠️ Erro </summary>  
-Um erro ocorre devido a uma **ação humana equivocada**, como um desenvolvedor que escreve um **código incorreto**, um testador que interpreta mal um requisito ou um usuário que insere dados errados.  
-</details>
-
-<details> <summary>❌ Falha </summary> 
-A falha acontece quando o software não se **comporta como deveria**. Ela é o efeito visível de um erro, como um botão que não responde ou um relatório que exibe dados incorretos.
-</details>
-
-<details> <summary> 🛠 Defeito </summary>  
-O defeito é a causa raiz da falha. Geralmente, trata-se de um problema no **código-fonte**, como uma lógica errada em um cálculo ou uma regra de negócio mal implementada.  
-</details>
-
-### 🔍 **Resumo**  
-- **Erro** → Ação humana incorreta  
-- **Defeito** → Código incorreto  
-- **Falha** → Problema no funcionamento do software  
+🔗 https://github.com/Portella10/banco-api
 
 ---
 
-## 🛠 Tecnologias & Ferramentas  
+## 📌 Sobre Mim
 
-| 💻 Testes Web | 🤖 Mobile | 🔗 API | ⚡ Performance | 🔒 Security | 🔄 CI/CD |  
-|--------------|----------|--------|-------------|-------------|-----------|  
-| Cypress | Appium | Postman | JMeter | OWASP ZAP | GitHub Actions |  
-| Playwright | Maestro | REST Assured | K6 | Burp Suite | Jenkins |  
-| Selenium | Espresso | CodeceptJS | Wiremock | Nmap | GitLab CI |  
+QA com foco em **testes manuais e automação**, atuando na validação de aplicações web e APIs. Experiência prática com testes E2E, testes de API e testes de performance, com integração em pipelines de CI/CD. Atuação orientada à mitigação de riscos, qualidade contínua e entregas confiáveis.
 
 ---
 
-## 📂 Repositórios  
+## 🧠 O que aplico na prática
 
-📌 API-tests (🚧 Em Construção)
-
-<details> <summary>📌 Automação Web 🖥 (🚧 Em Construção) </summary>
-   <details>  <summary> Cypress </summary>
-      <a href="https://github.com/Portella10/Swag-Labs-test" target="_blank">
-        Swag Labs – Testes Automatizados
-      </a>
-   </details>
-  
-</details>
-
-📌 Automação Mobile 📱(🚧 Em Construção)
-
-<details> <summary> 📌 Performance-tests ⚡ (🚧 Em Construção) </summary>
-   <details> <summary> K6 </summary>
-      <a href="https://github.com/Portella10/banco-api-performace" target="_blank">
-       Banco-api-performace
-      </a>
-   </details>
-  
-</details>
-
-
-📌 **Security-tests** 🔐 (🚧 Em Construção)  
+- Planejamento e execução de testes manuais  
+- Criação e manutenção de testes automatizados E2E  
+- Testes de API com validações funcionais e de contrato  
+- Testes de performance com K6  
+- Integração de testes em pipelines CI/CD  
+- Versionamento com Git e boas práticas de commit  
+- Documentação de cenários de teste e reporte de bugs  
 
 ---
 
-## 📞 Contatos  
+## 🛠 Stack Técnica
 
-<p align="center">
-  <a href="https://github.com/Portella10/QA-Portfolio-/edit/main/README.md">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" width="150"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joão-vitor-portella-799670250">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="130"/>
-  </a>
-  <a href="mailto:jvportella.m@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="132"/>
-  </a>
-</p>
+- **Automação Web:** Cypress, Playwright  
+- **API:** Postman, Supertest, REST  
+- **Performance:** K6  
+- **CI/CD:** GitHub Actions  
+- **Linguagem:** JavaScript  
+- **Gestão:** Jira  
+- **Versionamento:** Git  
+
+---
+
+## 📚 Base Teórica de QA
+
+Conceitos, técnicas e fundamentos de testes de software documentados separadamente.
+
+🔗 [https://github.com/Portella10](https://github.com/Portella10/qa-notes)
+
+---
+
+## 📞 Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/joão-vitor-portella-799670250  
+- **GitHub:** https://github.com/Portella10  
+- **Email:** jvportella.m@gmail.com
